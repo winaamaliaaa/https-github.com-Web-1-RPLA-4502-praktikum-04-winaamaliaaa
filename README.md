@@ -1,1 +1,3 @@
-# https-github.com-Web-1-RPLA-4502-praktikum-04-winaamaliaaa
+# 4502-praktikum-04-winaamaliaaa
+Wina Amalia
+6706213153
